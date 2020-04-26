@@ -47,4 +47,4 @@ Po kliknięciu w trzy kropeczki nad komentarzem rozwija się menu kontekstowe, o
 ![alt text](https://drive.google.com/uc?id=1bZIN-VNckeKF83nDPwaPkijnlwyrdZvs "img5")
 
 
-:octocat: by [Cosikowy](https://github.com/Cosikowy)
+by :octocat: [Cosikowy](https://github.com/Cosikowy)
