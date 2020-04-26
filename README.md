@@ -12,6 +12,8 @@
 Github jest to narzędzie do kontorli wersji oprogramowania. Ułatwia pracę nad projektem wielu osobom oraz pozwala na kontrolę kto aktualizuje kod na repozytorium.
 
 Link do repozytorium GitHub dostarcza w dwóch postaciach: **HTTP** oraz **SSH**, po kliknięciu w ten przycisk dostaniemy link do repozytorium :
+
+
 ![alt text](https://drive.google.com/uc?id=1OiRMmbi_yldtrgce-e_P8d_w-s77_je- "img6")
 
 ## Komendy
