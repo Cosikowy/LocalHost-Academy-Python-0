@@ -44,6 +44,8 @@ Tutaj dodaje się komentarz do commita:
 ![alt text](https://drive.google.com/uc?id=16slJmOtmcx0uiH4OJwj6sSfsqWTmNHVF "img4")
 
 Po kliknięciu w trzy kropeczki nad komentarzem rozwija się menu kontekstowe, opcje wybrane z tego menu działają tak jak komendy o takiej samej nazwie:
+
+
 ![alt text](https://drive.google.com/uc?id=1bZIN-VNckeKF83nDPwaPkijnlwyrdZvs "img5")
 
 
