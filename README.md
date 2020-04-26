@@ -34,7 +34,7 @@ Link do repozytorium GitHub dostarcza w dwóch postaciach: **HTTP** oraz **SSH**
 VS Code rozszerzenie GitHub:
 ![alt text](https://drive.google.com/uc?id=1OCgEe4H9Pl8OKZeUfMeLU6GafmEQj0ya "img1")
 
-Zmiany są pokazywane w tej części:
+Zmiany są pokazywane w tej części, aby je zaakceptować trzeba kliknąć w "+" przy pliku lub przy "Changes" co zaakceptuje wszystkie zmiany:
 ![alt text](https://drive.google.com/uc?id=1SgFXx6HoqoXZdplh7Wj_vbVbQeLi8yTf "img2")
 
 Zmiany zaakceptowane (staged changes):
