@@ -5,7 +5,7 @@ Każdy programista czy to początkujący czy doświadczony musi skonfigurować s
 
 1. Korzystać z IDE (Zintegrowane środowisko programistyczne, IDE (od ang. integrated development environment):
 - IDLE (domyślne IDE pythona które instaluje się razem z interperetatorem tego języka)
-- PyCharm - IDE stworzone dla frim OT
+- PyCharm - IDE stworzone dla firm IT
 
 lub
 
